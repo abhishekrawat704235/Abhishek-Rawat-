@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ Abhishek Rawat — Cinematic AI Engineer Portfolio
 
 A complete, production-ready personal portfolio website for **Abhishek Rawat (Aspiring AI Engineer & Full Stack Developer)**. Featuring a custom scroll-controlled 240-frame head-turning portrait animation powered by **React 18**, **TypeScript**, **GSAP ScrollTrigger**, and hardware-accelerated **HTML5 Canvas**.
@@ -179,3 +180,7 @@ The contact form in `src/sections/ContactSection.tsx` includes complete front-en
 ---
 
 Built with ❤️ for **Abhishek Rawat**
+=======
+# Abhishek-Rawat-
+THIS IS MY  PORTFOLIO WEB SITE 
+>>>>>>> 78d614704b76d8adaf17a60ebce843661a67b216
