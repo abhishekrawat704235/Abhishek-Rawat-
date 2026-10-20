@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#140b05" />
+      <stop offset="50%" stop-color="#2d1709" />
+      <stop offset="100%" stop-color="#080402" />
+    </linearGradient>
+    <linearGradient id="orangeGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f97316" />
+      <stop offset="100%" stop-color="#eab308" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg4)" />
+  <rect x="180" y="90" width="440" height="270" rx="16" fill="rgba(25, 14, 8, 0.7)" stroke="url(#orangeGlow)" stroke-width="2" />
+  <circle cx="220" cy="125" r="6" fill="#f43f5e" />
+  <circle cx="240" cy="125" r="6" fill="#f59e0b" />
+  <circle cx="260" cy="125" r="6" fill="#10b981" />
+  <!-- Code brackets / Binary tree -->
+  <text x="400" y="215" font-family="'Courier New', monospace" font-size="42" font-weight="700" fill="url(#orangeGlow)" text-anchor="middle">&lt;DSA /&gt;</text>
+  <text x="400" y="275" font-family="'Outfit', sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">QuantumCode Suite</text>
+  <text x="400" y="305" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle">Competitive Programming in Java &amp; Python</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420">
+  <defs>
+    <linearGradient id="certGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#180410" />
+      <stop offset="100%" stop-color="#0a0106" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="420" fill="url(#certGrad)" rx="16" />
+  <rect x="20" y="20" width="560" height="380" fill="none" stroke="rgba(245, 158, 11, 0.4)" stroke-width="2" rx="12" />
+  <rect x="30" y="30" width="540" height="360" fill="none" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" rx="8" />
+  
+  <!-- Ribbon Badge -->
+  <circle cx="300" cy="90" r="30" fill="url(#gold)" />
+  <text x="300" y="98" font-family="'Outfit', sans-serif" font-size="20" font-weight="800" fill="#000" text-anchor="middle">AI</text>
+
+  <text x="300" y="160" font-family="'Outfit', sans-serif" font-size="14" font-weight="600" fill="#f59e0b" text-anchor="middle" letter-spacing="3">CERTIFICATE OF ACHIEVEMENT</text>
+  <text x="300" y="210" font-family="'Outfit', sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">Python for Data Science &amp; AI</text>
+  <text x="300" y="250" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" fill="#cbd5e1" text-anchor="middle">Awarded to Abhishek Rawat</text>
+  
+  <line x1="200" y1="280" x2="400" y2="280" stroke="rgba(255,255,255,0.15)" stroke-width="1" />
+  <text x="300" y="320" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" fill="#94a3b8" text-anchor="middle">Issued by IBM / Online Learning Curriculum</text>
+</svg>
